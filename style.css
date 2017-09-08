@@ -1,0 +1,139 @@
+body{
+	background-color: #ecf0f1
+}
+
+.menu{
+	overflow: hidden;
+	background-color: #ecf0f1;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.menu a {
+	float: left;
+	display: block;
+	color: #34495e;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.mypresentation{
+	background-color: #ecf0f1;
+	color:#34495e;
+	padding:20px;
+	width: 500px;
+	height: 280px;
+	float: right;
+    padding: 15px;
+}
+
+.image--circle{
+	border-top-left-radius: 50% 50%;
+	border-top-right-radius: 50% 50%;
+	border-bottom-right-radius: 50% 50%;
+	border-bottom-left-radius: 50% 50%;
+	float: left;
+}
+
+.main{
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #ecf0f1
+	margin-bottom: 17px;
+	height: auto; 
+}
+
+.circle--color{
+	border-top-left-radius: 65% 65%;
+	border-top-right-radius: 65% 65%;
+	border-bottom-right-radius: 65% 65%;
+	border-bottom-left-radius: 65% 65%;
+	padding-left: 40px;
+	padding-right: 25px;
+	padding-top: 50px;
+	margin-right: 12px;
+	/*padding-bottom: 15px; */
+	float: left;
+	height: 70px;
+	width: 70px;
+}
+
+.color1{
+	background-color: #e74c3c;
+	color: white
+}
+
+.color2{
+	background-color: #3498db;
+	color: white
+}
+
+.color3{
+	background-color: #f39c12;
+	color: white
+}
+.description{
+	padding-top: 140px;
+}
+
+footer{
+	background-color: #E10C7A;
+	height: 50px;
+	margin-top: 350px;
+	/*margin-bottom: 50px;*/
+	padding-top: 10px
+}
+
+.call{
+	color:white;
+	padding-bottom: 30px;	
+	float:left;
+	margin-left: 220px;
+	margin-top:10px;
+}
+
+.email{
+	padding-bottom: 60px;
+	color:white;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px
+}
+
+.social{
+	padding-bottom: 50px;
+	color:white ;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px
+}
+
+.table {
+    width: 100%;
+ 
+
+}
+
+.th {
+    height: 50px;
+}
+
+.descriptionabout{
+	padding-top: 4px;
+}
+.descriptionskills{
+	padding-top: 4px;
+}
+.mytest{
+	font-size: 14px
+}
+
+.descriptiontable{
+	padding-top: 20px;
+	column-width: 400px
+}
