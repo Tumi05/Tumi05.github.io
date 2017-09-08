@@ -14,6 +14,7 @@ This is to prove that I have done some git and markup exercises
 
 #### Table
 |Links | Social Media | Contact |
+|------|---------------|--------|
 | [Home](https://Tumi05.github.io) | [Facebook](https:/facebook.com/itumoagi) | Tel : +27 797827992|
 |[About](https://Tumi05.github.io/about2.html)|[Twitter](https://twitter.com/itumoagi)|Email: itumeleng0510@gmail.com|
 
